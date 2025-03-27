@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #f8f9fa;
+    border-right: 1px solid #e9ecef;
+  }
+  
+  .header {
+    background-color: white;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
+  .headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 0 16px;
+  }
+  
+  .logo {
+    margin: 0;
+    color: #228be6;
+  }
+  
+  .mainContent {
+    height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: column;
+  }

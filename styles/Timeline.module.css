@@ -1,0 +1,21 @@
+.timelineContainer {
+    width: 100%;
+    padding: 0 16px 16px 16px;
+  }
+  
+  .timeline {
+    width: 100%;
+    height: 4px;
+    background-color: #e9ecef;
+    border-radius: 2px;
+    position: relative;
+  }
+  
+  .progress {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background-color: #228be6;
+    border-radius: 2px;
+  }

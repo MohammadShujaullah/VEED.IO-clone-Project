@@ -1,0 +1,19 @@
+{
+    "name": "veed-clone",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@mantine/core": "^5.0.0",
+        "@mantine/hooks": "^5.0.0",
+        "interactjs": "^1.10.0",
+        "next": "^12.0.0",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0"
+    }
+}
